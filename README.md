@@ -21,7 +21,7 @@
 # systemctl enable --now haproxy
 ```
 
-## fpm-cookery documentations
+## fpm-cookery documentation
 
 https://fpm-cookery.readthedocs.io/en/latest/
 
